@@ -1,5 +1,1 @@
-website with whatever in it
-i cant code so this will be really bad
-might upload things like g4mes if i figure it out
-again idk
-
+i know a little html so heres a scuffed website with fun thing
