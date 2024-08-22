@@ -1,1 +1,1 @@
-silly site (secret)
+A gateway to cool stuff
